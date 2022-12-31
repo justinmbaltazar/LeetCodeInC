@@ -8,7 +8,7 @@ Welcome to the LeetCode Solutions in C repository! This repository contains solu
 
 LeetCode is a popular platform for practicing and improving your coding skills. It features a large library of coding problems, covering a wide range of difficulty levels and problem domains. These solutions are my personal attempts at solving some of the problems on LeetCode.
 
-## Contents
+## Features
 
 The repository is organized by problem number and difficulty level. Each solution includes the problem statement and a brief description of my approach to solving it. The solutions are all implemented in C, and include comments to explain the logic behind the code.
 
